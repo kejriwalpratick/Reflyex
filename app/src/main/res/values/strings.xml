@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reflyex</string>
+    <string name="game_end">Game Over</string>
+    <string name="title_activity_opening">opening</string>
+    <string name="icon_credit"><u>www.icons8.com</u></string>
+    <string name="font_credit"><u>www.fontspace.com</u></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

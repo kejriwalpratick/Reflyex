@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.kejriwalpratick.reflyex.Instructions"
+    tools:layout_editor_absoluteY="8dp"
+    tools:layout_editor_absoluteX="8dp">
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:text="This game tests your hand-eye-mind Co-ordination.\n\nPlease read all the instructions before playing.\n\n1. Basically certain objects will pop up on screen and you have to identify if it flies or not, but before the time runs out.\n2. You have to just swipe up if you think it flies or swipe down if you think it does'nt and you have to keep making right choices.\n4. As you go on scoring, the level will increase at checkpoints and, time you get for making a decision keeps decreasing with increase in level.\n5. You win, when you successfully clear the entire set of objects.\n\nEasy Right?\n"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    </ScrollView>
+
